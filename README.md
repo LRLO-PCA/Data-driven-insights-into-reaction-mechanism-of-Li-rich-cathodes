@@ -37,7 +37,7 @@ TBD
 
 
 ## 💡 License
-TBD
+Code and dataset are released under the MIT License.
 
 
 ## 📋 Citation
