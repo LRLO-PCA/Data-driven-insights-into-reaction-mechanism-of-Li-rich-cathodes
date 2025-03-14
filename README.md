@@ -1,5 +1,5 @@
 
-### 🚀 Data driven insights into reaction mechanism of Li-rich cathodes
+# 🚀 Data driven insights into reaction mechanism of Li-rich cathodes
 
 📝[[Paper Link]](https://pubs.rsc.org/en/content/articlelanding/2025/ee/d4ee05222f)
 
