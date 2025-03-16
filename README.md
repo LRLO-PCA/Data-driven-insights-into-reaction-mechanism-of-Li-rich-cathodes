@@ -11,6 +11,8 @@ This paper has been accepted by the Energy & Environmental Science(EES) journal.
 - - -
 ## 📢 Updates & Notices
 - 2025-3-11; Initial Commit (Dataset, Code, and Tutorial)
+- 2025-3-16; Add README.md and LICENSE
+
 
 ## 🔑 Abstract
 
@@ -24,16 +26,26 @@ This paper has been accepted by the Energy & Environmental Science(EES) journal.
 ## 📌 Requirements
 The code is validated under the following environment;
   - Python 3.10
+  - numpy 1.24.4
+  - pandas 2.2.2
+  - matplotlib 3.9.1
+  - scikit-learn 1.5.1
+  - tqdm 4.66.4
+  - seaborn 0.13.2
 
 > [!WARNING]
-> To ensure this notebook runs smoothly, please install the above Python packages. The pip commands provided below will install these packages if they are not already installed.
+> To ensure this notebook runs smoothly, please install the above Python packages. The pip commands provided below will install these packages if they are not already installed. Note that the installed version may be different according to the installation command.
 > ```
 > %pip install --upgrade numpy pandas matplotlib scikit-learn tqdm seaborn > null
 > ```
 
 
 ## ⭐ Usage
-TBD
+1. Download the code including the tutorial and dataset via the following command:
+```
+git clone https://github.com/rist-cij/Data-driven-insights-into-reaction-mechanism-of-Li-rich-cathodes
+```
+2. Open the ipynb file and execute in order.
 
 
 ## 💡 License
