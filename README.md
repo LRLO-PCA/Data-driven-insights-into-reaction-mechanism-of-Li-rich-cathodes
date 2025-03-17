@@ -43,7 +43,7 @@ The code is validated under the following environment;
 ## ⭐ Usage
 1. Download the code including the tutorial and dataset via the following command:
 ```
-git clone https://github.com/rist-cij/Data-driven-insights-into-reaction-mechanism-of-Li-rich-cathodes
+git clone https://github.com/LRLO-PCA/Data-driven-insights-into-reaction-mechanism-of-Li-rich-cathodes
 ```
 2. Open the ipynb file and execute in order.
 
